@@ -21,3 +21,7 @@
 
 
 
+# Spring boot
+### Commands
+ * `gradle bootRun`
+ *
