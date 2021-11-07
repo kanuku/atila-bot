@@ -24,4 +24,4 @@
 # Spring boot
 ### Commands
  * `gradle bootRun`
- *
+ * Got to http://localhost:8080/
