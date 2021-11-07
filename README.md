@@ -25,3 +25,4 @@
 ### Commands
  * `gradle bootRun`
  * Got to http://localhost:8080/
+ * Return a list of TradingBots objects
